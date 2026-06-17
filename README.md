@@ -2,7 +2,7 @@
 
 This project analyzes employee attrition patterns using the IBM HR Analytics dataset. Built in Power BI, the dashboard explores who is leaving, which departments are most affected, and what factors — such as overtime, income, and tenure — drive attrition.
 
-**Tools:** Power BI · DAX · Power Query
+**Tools:** Power BI , DAX , Power Query
 
 ---
 
