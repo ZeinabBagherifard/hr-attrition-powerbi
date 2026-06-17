@@ -6,8 +6,8 @@ This project analyzes employee attrition patterns using the IBM HR Analytics dat
 
 ---
 
-![Employee Attrition Overview](overview.png)
-![What Drives Employee Attrition](drivers.png)
+![Employee Attrition Overview](Overview.png)
+![What Drives Employee Attrition](Drivers.png)
 
 ---
 
